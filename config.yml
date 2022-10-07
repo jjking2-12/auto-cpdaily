@@ -50,6 +50,8 @@ users:
         lat: 28.793022
         # 可以指定签到任务
         # formTitle: "2月31日每日签到"
+         #设备ID 详情见 -issues#I5SFE1
+        deviceId: '1'
         # 是否检查表单的标题（1代表检查，0代表不检查）
         checkTitle: 1
         # 表单信息
@@ -106,6 +108,8 @@ users:
         lat: 28.800613
         # 可以指定签到任务
         # formTitle: "2月31日每日签到"
+         #设备ID 详情见 -issues#I5SFE1
+        deviceId: '1'
         # 是否检查表单的标题（1代表检查，0代表不检查）
         checkTitle: 1
         # 是否只填必填项
@@ -175,6 +179,8 @@ users:
         photo: sign.jpg
         # 可以指定签到任务
         # formTitle: "2月31日每日签到"
+         #设备ID 详情见 -issues#I5SFE1
+        deviceId: '1'
         # 是否检查表单的标题（1代表检查，0代表不检查）
         checkTitle: 1
         # 表单信息
@@ -235,6 +241,8 @@ users:
         lat: 32.424037
         # 可以指定签到任务
         # formTitle: "2月31日每日签到"
+         #设备ID 详情见 -issues#I5SFE1
+        deviceId: '1'
         # abnormalReason 反馈信息（这个一般不用配置，但是不能删除，删除会报错）
         abnormalReason: ''
         # photo 签到照片，不需要可不填，或者直接删除
